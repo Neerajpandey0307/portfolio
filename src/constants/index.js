@@ -158,7 +158,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product.",
+      "As a INTERNET NETWORK SPECIALIST, he has carried out all his tasks and assignments in a perfect way as per the company norms.We are obliged to have him as a part of our Team",
     name: "Vijay Chaudhary",
     designation: "Member & Investor",
     company: "Almora Cable Networks",
