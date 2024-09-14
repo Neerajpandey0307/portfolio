@@ -174,15 +174,15 @@ const projects = [
       " Executed a network deployment project using static IP addressing.",      
    tags: [
       {
-        name: "react",
+        name: "",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "",
         color: "pink-text-gradient",
       },
     ],
@@ -190,20 +190,20 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Dual Function Network Extender Design",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      ".Enhanced Wi-Fi coverage and established WAN connectivity.",
     tags: [
       {
-        name: "react",
+        name: "",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "",
         color: "pink-text-gradient",
       },
     ],
@@ -211,20 +211,20 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: " E-Commerce Database Managemen",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Developed a database for managing product details.",
     tags: [
       {
-        name: "nextjs",
+        name: "",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "",
         color: "pink-text-gradient",
       },
     ],
